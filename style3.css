@@ -1,0 +1,54 @@
+body {
+    background-image: url(../image/bg1.png);
+    background-repeat: no-repeat;
+}
+
+.container {
+    position: absolute;
+    width: 1280px;
+    height: 720px;
+    left: 0px;
+    top: 0px;
+
+    background: rgba(42, 38, 61, 0.82);
+}
+
+h1 {
+    position: absolute;
+    left: 540px;
+    right: 541px;
+    top: 171px;
+    bottom: 465px;
+
+    font-family: Pacifico;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 45px;
+    line-height: 84px;
+    text-align: center;
+
+    color: #FCB371;
+}
+
+p {
+    position: absolute;
+    width: 768px;
+    height: 190px;
+    left: 256px;
+    top: 301px;
+
+    font-family: raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 33px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+a {
+    position: absolute;
+    left: 97px;
+    top: 85px;
+}
